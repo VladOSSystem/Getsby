@@ -5,7 +5,7 @@ const Footer = () => {
       <footer>
         <div className="container-fluid">
             <div className="d-flex justify-content-center">
-                &copy;-2019 Vladyslav Ivanenko
+                &copy;-2020 Vladyslav Ivanenko
             </div>
         </div>
       </footer>
